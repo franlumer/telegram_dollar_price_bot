@@ -2,7 +2,7 @@ import telebot
 import messages as msg
 import dolar_scrape as ds
 
-token = "8093397130:AAFehKhYsn7duX78MkOBhIqpJdl4a237Tbc"
+token = "TOKEN"
 print("...")
 
 bot = telebot.TeleBot(token)
